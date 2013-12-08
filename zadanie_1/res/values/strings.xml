@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">konrad.baranowski</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">Glowna aktywnosc</string>
+    <string name="title_activity_game">Gramy :)</string>
+    <string name="title_activity_splash">Splash screen</string>
+    <string name="main_edit_time">Ustaw czas</string>
+    <string name="main_lose">Niestety przegrales :( sprobuj jeszcze raz</string>
+    <string name="main_play">Zagraj w PATRONAGE!</string>
+    <string name="main_congratulations"> gratulacje!</string>
+    <string name="main_result">Twoj wynik to </string>
+    <string name="main_empty_time">Przed rozgrywka musisz wypelnic pole czas!</string>
+    <string name="main_incorrect_time">Czas musi byc z przedzialu 5 do 1000</string>
+
+</resources>
